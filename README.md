@@ -1,2 +1,2 @@
 # Liquid-Staking-Project
-This is implementation of Liquid staking solution for avail tokens
+This is implementation of Liquid Staking solution for avail tokens
